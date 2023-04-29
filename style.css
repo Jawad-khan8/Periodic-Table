@@ -1,0 +1,1197 @@
+.name{
+    font-family: Google Sans,arial,sans-serif-medium,sans-serif;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+    top: 0%;
+}
+
+
+body{
+    background-color: #352e2e;
+}
+
+h1{
+    text-align: center;
+ color: white;
+}
+
+.hydrogen{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.helium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #623842;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.lithium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #244d57;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+ 
+
+
+.beryllium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #622e39;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+.Boron{
+    height: 7ch;
+    width: 8ch;
+    background-color: #523e1b;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+  
+
+.carbon{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.nitrogen{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.oxygen{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+  
+
+.fluorine{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.neon{
+    height: 7ch;
+    width: 8ch;
+    background-color: #623842;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+
+.sodium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #244d57;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+ 
+
+
+.magnesium{
+    align-items: center;
+    height: 7ch;
+    width: 8ch;
+    background-color: #622e39;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+
+.aluminium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+ 
+
+
+.silicon{
+    height: 7ch;
+    width: 8ch;
+    background-color: #523e1b;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.phosphorus{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.sulfur{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.chlorine{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.argon{
+    height: 7ch;
+    width: 8ch;
+    background-color: #623842;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.potassium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #244d57;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.calcium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #622e39;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.scandium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.titanium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.vanadium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.chromium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.manganese{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.iron{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.cobalt{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.nickel{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.copper{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.zinc{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.gallium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.germanium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #523e1b;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.arsenic{
+    height: 7ch;
+    width: 8ch;
+    background-color: #523e1b;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.selenium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.bromine{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.krypton{
+    height: 7ch;
+    width: 8ch;
+    background-color: #623842;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+.rubidium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #244d57;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.strontium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #622e39;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.yttrium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.zirconium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.niobium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.molybdenum{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.technetium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.ruthenium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.rhodium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.palladium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.silver{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.cadmium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.indium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.tin{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.antimony{
+    height: 7ch;
+    width: 8ch;
+    background-color: #523e1b;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.tellurium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #523e1b;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+.iodine{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2a4165;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.xenon{
+    height: 7ch;
+    width: 8ch;
+    background-color: #623842;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.caesium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #244d57;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.barium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #622e39;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.lanthanum{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.hafnium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.tantalum{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.tungsten{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.rhenium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.osmium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.iridium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.platinum{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.gold{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.mercury{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.thallium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.lead{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.bismuth{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.polonium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.astatine{
+    height: 7ch;
+    width: 8ch;
+    background-color: #2f4d47;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.radon{
+    height: 7ch;
+    width: 8ch;
+    background-color: #623842;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.francium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #244d57;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.radium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #622e39;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.actinium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.rutherfordium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.dubnium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.seaborgium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.bohrium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.hassium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #433c65;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.meitnerium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.darmstadtium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.roentgenium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.copernicium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.nihonium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.flerovium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.moscovium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.livermorium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.tannessine{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.oganesson{
+    height: 7ch;
+    width: 8ch;
+    background-color: #46474c;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.cerium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.praseodymium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.neodymium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.promethium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.samarium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.europium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.gadolinium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.terbium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.dysprosium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.holmium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.erbium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.thulium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.ytterbium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.lutetium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #004a77;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.thorium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.protactinium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.uranium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.neptunium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.plutonium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+.americium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.curium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.berkelium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+.californium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.einsteinium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.fermium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.mendelevium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.nobelium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
+
+
+.lawrencium{
+    height: 7ch;
+    width: 8ch;
+    background-color: #613b28;
+    border: none;
+    color: #e2eeff;
+    border-radius: 15%;
+}
